@@ -1,6 +1,6 @@
 ## Welcome!
 
-This is a volunteer led effort to translate racial and social justice topics/terms from their North American context to South Asian languages. These tools are intended to help 1st & 2nd generation South Asian diaspora start discussions in their homes and educate their parents around forms of structural racism and injustice in the United States and western nations.
+This is a volunteer led effort to translate racial and social justice topics/terms from their North American context to South Asian languages. These tools are intended to help the South Asian diaspora educate themselves, their family, friends, and networks about structural racism in the United States and western nations.
 
 ### White Supremacy Graphic 
 
@@ -16,9 +16,10 @@ Bengali Translation - coming soon!
 
 ### What about other South Asian Languages?
 
-We are actively looking for translators & contributors for Marathi, Telegu, Tamil, Gujarati, Malayalam, & other languages from South Asia. We are also looking for graphic designers. If you are fluent in the languages we have already covered (Hindi, Urdu, Punjabi), please also get in touch for future projects.
+We are actively looking for translators & contributors for Marathi, Telegu, Tamil, Gujarati, Malayalam, & other languages from South Asia. We are also looking for graphic designers. 
 
-If you have enough language fluency in English and any South Asian language to be able to translate words that do not have easy 1:1 counterparts in the South Asian context, and want to work with us to create resources for your community, [please get in touch!](https://github.com/SJSABox/sjsabox.github.io/issues/new/choose)
+If you have enough language fluency in English and any South Asian language to be able to translate words that do not have easy 1:1 counterparts in the South Asian context, and want to work with us to create resources for your community, [please get in touch!](https://github.com/SJSABox/sjsabox.github.io/issues/new/choose). If you are fluent in the languages we have already covered (Hindi, Urdu, Punjabi), please also get in touch for future projects.
+
 
 ### Stay Updated
 
