@@ -3,3 +3,6 @@ theme: jekyll-theme-minimal
 title: Social Justice Toolbox - South Asian Languages
 logo: /assets/placeholder.png
 description: A community driven open source initiative to translate racial & social justice resources & terms into South Asian Languages.
+
+show_downloads: false
+google_analytics: UA-176775824-1
