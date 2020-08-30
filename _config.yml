@@ -6,3 +6,6 @@ description: A community driven open source initiative to translate racial & soc
 
 show_downloads: false
 google_analytics: UA-176775824-1
+
+github:
+  is_project_page: false
