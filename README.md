@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/SJSABox/sjsabox.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is a volunteer led effort to translate racial and social justice topics/terms from their North American context to South Asian languages. These tools are intended to help 1st & 2nd generation South Asian diaspora start discussions in their homes and educate their parents around forms of structural racism and injustice in the United States and western nations.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### White Supremacy Graphic 
 
-### Markdown
+Below are translations of the popular White Supremacy triangle graphic that lists forms of Covert & Overt white supremacy. Each term is accompanied by a translation, transliteration, and reference reading that offers more context and explanation of each concept.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 1. [Urdu Translation](https://github.com/SJSABox/Urdu-Translations-Racism-And-White-Supremacy-Terms/blob/main/README.md)
 
-```markdown
-Syntax highlighted code block
+#### 2. [Hindi Translation](https://github.com/SJSABox/Hindi-Translations-Racism-And-White-Supremacy-Terms/blob/main/README.md)
 
-# Header 1
-## Header 2
-### Header 3
+#### 3. [Punjabi Translation](https://github.com/SJSABox/Punjabi-Translations-Racism-And-White-Supremacy-Terms/blob/main/README.md)
 
-- Bulleted
-- List
+Bengali Translation - coming soon!
 
-1. Numbered
-2. List
+### What about other South Asian Languages?
 
-**Bold** and _Italic_ and `Code` text
+We are actively looking for translators & contributors for Marathi, Telegu, Tamil, Gujarati, Malayalam, & other languages from South Asia. We are also looking for graphic designers. If you are fluent in the languages we have already covered (Hindi, Urdu, Punjabi), please also get in touch for future projects.
 
-[Link](url) and ![Image](src)
-```
+If you have enough language fluency in English and any South Asian language to be able to translate words that do not have easy 1:1 counterparts in the South Asian context, and want to work with us to create resources for your community, [please get in touch!](https://github.com/SJSABox/sjsabox.github.io/issues/new/choose)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Stay Updated
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SJSABox/sjsabox.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+As we build out more translations, these resources are shared with various organizations and social media groups upon completion, for dissemination. If you are an individual or an organization that would like to stay updated about all upcoming translations of the White Supremacy graphic or other resources, [please sign up for our tinyletter here](https://tinyletter.com/sjsatoolbox). We will only be using the tinyletter to share new completed translations.
